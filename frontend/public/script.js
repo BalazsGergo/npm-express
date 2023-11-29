@@ -17,7 +17,7 @@ const fetchUrl = async (url) => {
 }
 
 async function init() {
-  const beerData = await fetchUrl("/beers/10")
+  const beerData = await fetchUrl("/beers/3")
   rootElement.innerHTML = JSON.stringify(beerData)
   
   /* if (beerData === "bad request") {
