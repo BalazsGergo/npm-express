@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Dreher Gold",
+        "abv": 5
+    },
+
+    {
+        "id": 2,
+        "name": "Soproni Vilagos",
+        "abv": 4
+    },
+
+    {
+        "id": 3,
+        "name": "Borsodi",
+        "abv": 7
+    },
+
+    {
+        "id": 4,
+        "name": "asdas",
+        "abv": 1
+    },
+
+
+    {
+        "id": 5,
+        "name": "reewqw",
+        "abv": 2
+    }
+]
